@@ -1,0 +1,5 @@
+name: Radio
+version: '${version}'
+main: com.h1r0sh1m4.radio.Plugin
+api-version: '1.20'
+depend: [ voicechat ]
