@@ -39,7 +39,7 @@ To configure the wave, a player needs to:
 
 - If you come across any issues or bugs, please report them [here](https://github.com/H1R0SHIM4/Radio/issues), and we'll look into them promptly.
 
-- Alternatively, you can reach out to me on Discord (see Contacts), and we can discuss the problem and work on a new version together!
+- Alternatively, you can reach out to me on Discord (see Contact), and we can discuss the problem and work on a new version together!
 
 ## Contact
 
