@@ -44,9 +44,3 @@ To configure the wave, a player needs to:
 ## Contact
 
 Feel free to contact me on Discord using the username `.h1r0sh1m4`.
-
-## License
-
-This plugin is licensed under [license_type]. See the [LICENSE](LICENSE) file for details.
-
----
