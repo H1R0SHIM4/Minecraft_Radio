@@ -24,7 +24,7 @@ To install this plugin on your server, you'll need to follow these steps:
 5. That's it! The plugin is now installed and ready to use on your server.
 
 ## Usage
-This plugin recognizes two structures: receivers (radio receivers) and players with levers (radio stations).  
+This plugin recognizes two structures: jukeboxes (radio receivers) and jukeboxes with levers (radio stations).  
 <img align="left" alt="Radio station is on the left and radio receiver is on the right " width="1253px" src="https://4007294479-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FPR1IVwHn3NncNR69HE0R%2Fuploads%2FbebMSSCMYxG84Up5ZQq9%2F%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png?alt=media&token=fd1dd1d8-f759-45c3-a1bb-26663d3c7fa4" />
 If the wave matches on a radio station and a radio receiver, the voices of players near the radio station will be transmitted to all radio stations set to the same wave.
 
