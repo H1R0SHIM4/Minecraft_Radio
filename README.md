@@ -17,7 +17,7 @@ To install this plugin on your server, you'll need to follow these steps:
 
 2. Players will also need to install the 'Simple Voice' mod on their devices.
 
-3. Next, install the RadioPlugin on your server.
+3. Next, install the Radio Plugin on your server.
 
 4. Run the jar file, and a simple configuration file will be generated. Adjust the settings in the config file if needed.
 
